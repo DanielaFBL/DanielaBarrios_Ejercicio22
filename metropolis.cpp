@@ -31,7 +31,7 @@ void MCMD(int N){
     double alpha;
     
         for(int i=0;i<N;i++){
-            cout << i << " " <<exp(-x*) << endl;
+            cout << i << " " << funcion << endl;
             prop = funcion + ((drand48()*2)-1);
             x_1 = prop;
             x_2 = funcion;
